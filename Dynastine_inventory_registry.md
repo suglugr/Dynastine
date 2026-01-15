@@ -19,7 +19,9 @@ Tornasol|18|
 |Guerreros |1|8.25| 
 |Guerreros |7|8.5|
 
-## Rutas 
+## Rutas BALEROS
+
+
 #### HQ
 
 |Shop|HQ|
@@ -29,32 +31,41 @@ Tornasol|18|
 |10|Gallito| 
 
 #### SKATESHOPS
+###### MENDAX
 
 |Shop|Mendax|
 |----|------|
 |1| Filip|
 |1| Tornasol|
 |1|Gallito| 
-###### Chilango skate 
+ 
 
-|Shop|Chilango| Primer Visita 
+
+###### Chilango skate 
+Primer Visita 
+
+|Shop|Chilango| 
 |----|------|
 |10 |Gallito| 
 
 
 
-|Shop|Chilango| Día de grabación promos
+Día de grabación promos
+|Shop|Chilango| 
 |----|------|
 |1| Filip|
 |1| Tornasol|
 ** En roma**  
 
-|Shop|Chilango| Ultima Visita
+Ultima Visita
+
+|Shop|Chilango| 
 |----|------|
 |5| Filip|
 |6| Tornasol|
 |6||Gallito| 
-5? ¿2?
+
+###### Tlapexco
 
 |Shop|Tlapexco|
 |----|------|
@@ -62,9 +73,9 @@ Tornasol|18|
 |1| Tornasol|
 |1|Gallito| 
 
-** inventario distribuido por Carlos**
+**inventario distribuido por Carlos**
 
 
 ### Producción MCHT
 playeras y sudaderas envio a polonia
-I
+
