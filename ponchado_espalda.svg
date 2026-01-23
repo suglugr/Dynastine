@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="424.8188976377954"
-   height="187.4645669291339"
-   viewBox="0 0 424.8188976377954 187.4645669291339"
+   width="17cm"
+   height="8cm"
+   viewBox="0 0 642.51968 302.36221"
    version="1.1"
    id="svg1"
    sodipodi:docname="ponchado_espalda.svg"
@@ -29,7 +29,9 @@
    inkscape:window-x="-8"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
-   inkscape:current-layer="g1" />
+   inkscape:current-layer="g1"
+   inkscape:document-units="cm" />
+
 
 svg<metadata
    id="metadata1">
@@ -41,17 +43,17 @@ svg<metadata
    id="defs1">
   <symbol
      id="inkstitch_trim"
-     transform="scale(0.25, 0.25)"
+     transform="scale(0.25)"
      style="opacity:0.7">
     <title
        id="inkstitch_title9282">Trim the thread after sewing this object.</title>
     <path
        id="inkstitch_circle13405"
        d="m 9.2465284,-8.6e-6 c 1.8e-6,2.452339 -0.9741847,4.804237 -2.7082493,6.538304 C 4.8042146,8.2723614 2.4523174,9.2465504 -2.1625959e-5,9.2465514 -2.4523623,9.2465534 -4.8042621,8.2723654 -6.5383288,6.5382984 -8.2723956,4.8042314 -9.2465834,2.4523324 -9.2465816,-8.6e-6 c 6e-7,-2.452339 0.9741895,-4.804237 2.708256,-6.538301 1.7340665,-1.734065 4.0859648,-2.708252 6.538303974041,-2.70825 C 5.1067066,-9.2465576 9.2465271,-5.1067366 9.2465284,-8.6e-6 c 0,0 0,0 0,0"
-       style="opacity:1;vector-effect:none;fill:#fafafa;fill-opacity:1;fill-rule:evenodd;stroke:#003399;stroke-width:1.06500006;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.19500017, 3.19500017;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;vector-effect:none;fill:#fafafa;fill-opacity:1;fill-rule:evenodd;stroke:#003399;stroke-width:1.065;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.195, 3.195;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:connector-curvature="0" />
     <path
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#050505;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.41421342;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#050505;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.41421;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        d="m -3.0000256,-5.9834096 c -1.30575,0 -2.375,1.06924 -2.375,2.375 0,1.30575 1.06925,2.375 2.375,2.375 0.58687,0 1.11944,-0.22369 1.53516,-0.58007 0,0 0.61717997,1.62109 0.61717997,1.62109 0,0 -2.29881997,6.01758 -2.29881997,6.01758 0.98655,-0.12511 1.23728,-0.26171 1.67382,-0.97461 0,0 1.33007997,-3.18945 1.33007997,-3.18945 0,0 1.23633003,3.25 1.23633003,3.25 0.23227,0.77906 0.84315,0.79218 1.57813,1.07226 0,0 -2.05469003,-6.14258 -2.05469003,-6.14258 0,0 0.73047003,-1.75 0.73047003,-1.75 0.42849,0.41682 1.01136,0.67578 1.65234,0.67578 1.30575,0 2.375,-1.06925 2.375,-2.375 0,-1.30576 -1.06925,-2.375 -2.375,-2.375 -1.06233,0 -1.95701,0.71265 -2.25781003,1.67969 0,0 -0.0117,-0.0156 -0.0117,-0.0156 0,0 -0.80274,2.10156 -0.80274,2.10156 0,0 -0.59179,-1.76562 -0.59179,-1.76562 -0.18242,-1.12808 -1.15864997,-2 -2.33593997,-2 0,0 -2e-5,-3e-5 -2e-5,-3e-5 m 0,1 c 0.76531,0 1.375,0.60968 1.375,1.375 0,0.76531 -0.60969,1.375 -1.375,1.375 -0.76531,0 -1.375,-0.60969 -1.375,-1.375 0,-0.76532 0.60969,-1.375 1.375,-1.375 0,0 0,0 0,0 m 6,0 c 0.76531,0 1.375,0.60968 1.375,1.375 0,0.76531 -0.60969,1.375 -1.375,1.375 -0.76531,0 -1.375,-0.60969 -1.375,-1.375 0,-0.76532 0.60969,-1.375 1.375,-1.375 0,0 0,0 0,0"
        id="inkstitch_path13416"
        inkscape:connector-curvature="0" />
@@ -60,12 +62,12 @@ svg<metadata
 <g
    inkscape:label="ponchado_espalda.dst"
    inkscape:groupmode="layer"
-   transform="translate(212.409, 93.7323)"
+   transform="translate(212.409,93.7323)"
    id="g1">
   <g
      id="__color_block_0__"
      inkscape:label="color block 1"
-     transform="matrix(1.29602 0 0 1.29602 66.5621 27.8063)">
+     transform="matrix(1.29602,0,0,1.29602,116.10838,53.579439)">
     <path
        id="object5840"
        style="fill:none;stroke:#3505ed;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round"
@@ -134,7 +136,7 @@ svg<metadata
        inkscape:label="Ink/Stitch Command: Trim thread after sewing this object">
       <path
          id="command_connector4110"
-         d="M 0.97277477,61.451257 11.085366,61.505536"
+         d="M 0.97277478,61.451257 11.085366,61.505536"
          style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use3523"
          inkscape:connection-end="#object316"
@@ -162,7 +164,7 @@ svg<metadata
        inkscape:label="Ink/Stitch Command: Trim thread after sewing this object">
       <path
          id="command_connector5643"
-         d="M -21.691896,71.601026 -9.9352318,68.517909"
+         d="M -21.691896,71.601026 -9.9352317,68.517909"
          style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use3842"
          inkscape:connection-end="#object509"
@@ -246,7 +248,7 @@ svg<metadata
        inkscape:label="Ink/Stitch Command: Trim thread after sewing this object">
       <path
          id="command_connector8287"
-         d="m 0.92735788,-58.746943 0.34113082,9.991037"
+         d="m 0.92735789,-58.746943 0.34113081,9.991037"
          style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use3005"
          inkscape:connection-end="#object4303"
@@ -434,7 +436,7 @@ svg<metadata
   <g
      id="__color_block_1__"
      inkscape:label="color block 2"
-     transform="matrix(1.29602 0 0 1.29602 66.5621 27.8063)">
+     transform="matrix(1.29602,0,0,1.29602,116.10838,53.579439)">
     <path
        id="object5846"
        style="fill:none;stroke:#644fa9;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round"
